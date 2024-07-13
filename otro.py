@@ -1,1 +1,1 @@
-print "otro"
+print("hola lucia")
